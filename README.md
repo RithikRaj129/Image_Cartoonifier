@@ -35,7 +35,7 @@
 <ul>
   <li><b>Detecting Gender and Age of face through webcam</b> Use Command :</li>
   
-      python detect.py
+      cartoonifier.py
 </ul>
 <ul>
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
